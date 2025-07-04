@@ -16,8 +16,6 @@ An interactive Power BI dashboard to analyze Superstore sales performance across
 
 ## 📌 Dashboard Overview
 
-![Dashboard Preview](./Screenshot.png)
-
 ### 🔍 Visuals Used:
 - 📈 Line Chart: Sales Over Time (by Month-Year)
 - 📊 Bar Chart: Sales by Region
